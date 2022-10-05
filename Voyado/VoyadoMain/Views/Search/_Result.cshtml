@@ -1,0 +1,27 @@
+﻿@model VoyadoMain.Areas.Search.Models.SearchResultModel
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <td>Engine</td>
+            <td>Search String</td>
+            <td>Matches</td>
+        </tr>
+    </thead>
+    @foreach (var result in Model.Results)
+    {
+        <tr>
+            <td>
+                @result.Key
+            </td>
+            <td>
+                @result.Value.SearchString
+            </td>
+            <td>
+                @result.Value.Matches
+            </td>
+        </tr>
+    }
+</table>
+

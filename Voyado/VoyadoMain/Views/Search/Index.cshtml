@@ -1,0 +1,32 @@
+﻿@model VoyadoMain.Models.SearchInput
+@{
+    Layout = null;
+}
+
+@using (Html.BeginForm("GetSearchMatches", "Search", FormMethod.Post))
+{
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <th colspan="2" align="center">Enter search string</th>
+        </tr>
+        <tr>
+            <td>Input: </td>
+            <td>
+                @Html.TextBoxFor(m => m.Input)
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit" /></td>
+        </tr>
+    </table>
+}
+
+@{
+if(Model?.Result != null)
+{
+    <div class="results">
+        @await Html.PartialAsync("_Result", Model.Result)
+    </div>
+}
+}

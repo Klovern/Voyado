@@ -1,0 +1,15 @@
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\bin\Debug\net6.0\VoyadaManagement.deps.json
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\bin\Debug\net6.0\VoyadaManagement.dll
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\bin\Debug\net6.0\VoyadaManagement.pdb
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\bin\Debug\net6.0\IVoyadoManagement.dll
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\bin\Debug\net6.0\IVoyadoManagement.pdb
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.csproj.AssemblyReference.cache
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.AssemblyInfoInputs.cache
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.AssemblyInfo.cs
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.csproj.CoreCompileInputs.cache
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.csproj.CopyComplete
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.dll
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\refint\VoyadaManagement.dll
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\VoyadaManagement.pdb
+C:\Users\s4d\source\repos\Voyado\VoyadaManagement\obj\Debug\net6.0\ref\VoyadaManagement.dll

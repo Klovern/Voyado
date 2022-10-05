@@ -1,0 +1,12 @@
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\bin\Debug\net6.0\IVoyadoManagement.deps.json
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\bin\Debug\net6.0\IVoyadoManagement.dll
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\bin\Debug\net6.0\IVoyadoManagement.pdb
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\IVoyadoManagement.csproj.AssemblyReference.cache
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\IVoyadoManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\IVoyadoManagement.AssemblyInfoInputs.cache
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\IVoyadoManagement.AssemblyInfo.cs
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\IVoyadoManagement.csproj.CoreCompileInputs.cache
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\IVoyadoManagement.dll
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\refint\IVoyadoManagement.dll
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\IVoyadoManagement.pdb
+C:\Users\s4d\source\repos\Voyado\IVoyadoManagement\obj\Debug\net6.0\ref\IVoyadoManagement.dll
